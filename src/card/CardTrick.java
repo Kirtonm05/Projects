@@ -30,6 +30,8 @@ public class CardTrick {
             c.setSuit("hearts");
             c.setValue(5);
             c.setSuit(Card.SUITS[num]);
+            c.setSuit("Diamond");
+            c.setValue(4);
         }
         
         //insert code to ask the user for Card value and suit, create their card
