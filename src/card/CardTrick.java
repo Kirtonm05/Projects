@@ -30,7 +30,7 @@ public class CardTrick {
             c.setSuit("hearts");
             c.setValue(5);
             c.setSuit(Card.SUITS[num]);
-            c.setSuit("Clubs");
+            c.setSuit("Diamonds");
             c.setValue(4);
         }
         
